@@ -22,3 +22,5 @@ end
 console.log("A Lot Of Code")
 ERROR
 ```
+
+[Lab Report 1](lab-report-1-week-2.html)
