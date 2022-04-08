@@ -1,1 +1,24 @@
-Hello World
+**Hello World**  
+*Hello World*   
+# Header
+## Smaller Header
+[myPage](https://chisengwong.github.io/cse15l-lab-reports/)  
+![myImg](https://static.wikia.nocookie.net/spsot/images/3/37/Princess_kenny_facebook_profile.png/revision/latest/scale-to-width-down/250?cb=20141024132900)  
+> block  
+* item1
+* item2
+* item3
+
+1. one
+2. two
+3. three  
+
+end
+
+---
+
+`System.out.println("somecode")`
+```
+console.log("A Lot Of Code")
+ERROR
+```
