@@ -3,7 +3,7 @@
 # Header
 ## Smaller Header
 [myPage](https://chisengwong.github.io/cse15l-lab-reports/)  
-![myImg](https://static.wikia.nocookie.net/spsot/images/3/37/Princess_kenny_facebook_profile.png/revision/latest/scale-to-width-down/250?cb=20141024132900)  
+![myImg](https://static.wikia.nocookie.net/spsot/images/3/37/Princess_kenny_facebook_profile.png)  
 > block  
 * item1
 * item2
