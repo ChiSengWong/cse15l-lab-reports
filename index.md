@@ -23,6 +23,6 @@ console.log("A Lot Of Code")
 ERROR
 ```
 
-[Lab Report 1](https://chisengwong.github.io/cse15l-lab-reports/lab_wk2.html)
+[Lab Report 1](https://chisengwong.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
 <br>
-[Lab_Report_2](https://chisengwong.github.io/cse15l-lab-reports/lab_wk4.html)
+[Lab_Report_2](https://chisengwong.github.io/cse15l-lab-reports/lab-report-1-week-4.html)
