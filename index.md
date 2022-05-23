@@ -28,3 +28,5 @@ ERROR
 [Lab_Report_2](https://chisengwong.github.io/cse15l-lab-reports/lab-report-2-week-4.html)
 <br>
 [Lab_Report_3](https://chisengwong.github.io/cse15l-lab-reports/lab-report-3-week-6.html)
+
+[Lab_Report_4](https://chisengwong.github.io/cse15l-lab-reports/lab-report-4-week-8.html)
