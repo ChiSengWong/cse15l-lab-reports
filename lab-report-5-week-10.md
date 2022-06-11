@@ -16,3 +16,6 @@ For our implementation, the output are [/bar\* "ti\*tle"] and [/f&ouml;&ouml; "f
 
 The lab's output was incorrect because the parentheses checker is interupted by the extra space within the paren.
 
+
+![lab9](/lab5_wk10/lab9BugCode.png)
+The above lines of code is where caused the incorrect output for lab9's implementation. It is affected by the extra white space in both test22 and test32.
